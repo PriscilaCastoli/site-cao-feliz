@@ -1,0 +1,32 @@
+#logo{
+   margin-top: -25px;
+   margin-left: -40px;
+}
+
+#navbarNav{
+    margin-right: 80px;
+}
+
+.card{
+    margin-left: 70px;
+    width: 18rem;
+}
+
+footer .card{
+    margin-left: -100px;
+    width: 500rem;
+}
+
+.carousel-caption h5{
+    font-weight: 900;
+	font-size: 70px;
+	color: #f0f6ffef;
+	text-shadow: 2px 2px 2px rgb(26, 26, 26);
+}
+
+
+#carouselExampleCaptions img{
+    height: 35em;
+    width: 30em;
+}
+
